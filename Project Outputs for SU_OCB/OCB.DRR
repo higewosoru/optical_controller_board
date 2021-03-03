@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: OCB.PcbDoc   3/1/2021  11:01:48 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : OCB-RoundHoles.TXT
+ASCII SlotHoles File : OCB-SlotHoles.TXT
+EIA File   : OCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.599mm)                                           Slot              4         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             23        PTH        0.00inch (0.00mm)
+T3      40mil (1.011mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T4      40mil (1.021mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T5      25mil (0.64mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              45
+
+Total Processing Time (hh:mm:ss) : 00:00:00

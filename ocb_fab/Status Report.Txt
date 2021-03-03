@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SU_OCB.PrjPcb]
+   Generated File[OCB-RoundHoles.TXT]
+   Generated File[OCB-SlotHoles.TXT]
+   Generated File[OCB.DRL]
+   Generated File[OCB.LDP]
+   Generated File[OCB.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:01:48 AM On 3/1/2021
